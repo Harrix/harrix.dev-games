@@ -11,6 +11,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/athlete-goes-up-in-elevator/athlete-goes-up-in-elevator.md
+url: https://harrix.dev/ru/games/athlete-goes-up-in-elevator/
 ---
 
 # 28 летний атлет поднимается на лифте

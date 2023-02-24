@@ -12,6 +12,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/what-are-your-names/what-are-your-names.md
+url: https://harrix.dev/ru/games/what-are-your-names/
 ---
 
 # Кого как зовут
