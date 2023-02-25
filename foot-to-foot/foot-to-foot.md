@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/foot-to-foot/foot-to-foot.md
 url: https://harrix.dev/ru/games/foot-to-foot/
+lang: ru
 ---
 
 # Нога к ноге

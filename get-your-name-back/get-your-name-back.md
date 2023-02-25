@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/get-your-name-back/get-your-name-back.md
 url: https://harrix.dev/ru/games/get-your-name-back/
+lang: ru
 ---
 
 # Получить своё имя обратно

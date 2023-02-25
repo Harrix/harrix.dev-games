@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/folk-tale/folk-tale.md
 url: https://harrix.dev/ru/games/folk-tale/
+lang: ru
 ---
 
 # Народная сказка

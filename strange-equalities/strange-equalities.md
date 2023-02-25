@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/strange-equalities/strange-equalities.md
 url: https://harrix.dev/ru/games/strange-equalities/
+lang: ru
 ---
 
 # Странные равенства

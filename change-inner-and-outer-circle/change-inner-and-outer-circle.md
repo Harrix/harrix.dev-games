@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/change-inner-and-outer-circle/change-inner-and-outer-circle.md
 url: https://harrix.dev/ru/games/change-inner-and-outer-circle/
+lang: ru
 ---
 
 # Поменять внутренний и внешний круг

@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/one-two-three/one-two-three.md
 url: https://harrix.dev/ru/games/one-two-three/
+lang: ru
 ---
 
 # Раз-два-три

@@ -13,6 +13,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/then-forest-then-field/then-forest-then-field.md
 url: https://harrix.dev/ru/games/then-forest-then-field/
+lang: ru
 ---
 
 # Лесом-полем

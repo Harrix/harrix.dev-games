@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/two-snakes-of-men/two-snakes-of-men.md
 url: https://harrix.dev/ru/games/two-snakes-of-men/
+lang: ru
 ---
 
 # Две змеи из людей

@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/i-take-with-me-on-trip/i-take-with-me-on-trip.md
 url: https://harrix.dev/ru/games/i-take-with-me-on-trip/
+lang: ru
 ---
 
 # Я беру собой в поход

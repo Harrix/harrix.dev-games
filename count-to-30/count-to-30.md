@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/count-to-30/count-to-30.md
 url: https://harrix.dev/ru/games/count-to-30/
+lang: ru
 ---
 
 # Сосчитать до 30

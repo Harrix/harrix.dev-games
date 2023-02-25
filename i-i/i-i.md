@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/i-i/i-i.md
 url: https://harrix.dev/ru/games/i-i/
+lang: ru
 ---
 
 # Я, я

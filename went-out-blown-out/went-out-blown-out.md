@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/went-out-blown-out/went-out-blown-out.md
 url: https://harrix.dev/ru/games/went-out-blown-out/
+lang: ru
 ---
 
 # То потухло, то погасло

@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/make-up-words/make-up-words.md
 url: https://harrix.dev/ru/games/make-up-words/
+lang: ru
 ---
 
 # Составь слова

@@ -13,6 +13,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/two-trains-towards-each-other/two-trains-towards-each-other.md
 url: https://harrix.dev/ru/games/two-trains-towards-each-other/
+lang: ru
 ---
 
 # Два поезда навстречу друг-другу

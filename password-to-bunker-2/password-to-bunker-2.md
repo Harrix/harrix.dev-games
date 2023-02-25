@@ -13,6 +13,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/password-to-bunker-2/password-to-bunker-2.md
 url: https://harrix.dev/ru/games/password-to-bunker-2/
+lang: ru
 ---
 
 # Пароль в бункер 2

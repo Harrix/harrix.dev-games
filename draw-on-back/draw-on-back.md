@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/draw-on-back/draw-on-back.md
 url: https://harrix.dev/ru/games/draw-on-back/
+lang: ru
 ---
 
 # Нарисовать на спине

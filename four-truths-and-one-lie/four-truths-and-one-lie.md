@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/four-truths-and-one-lie/four-truths-and-one-lie.md
 url: https://harrix.dev/ru/games/four-truths-and-one-lie/
+lang: ru
 ---
 
 # Четыре правды и одна ложь

@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/guess-who/guess-who.md
 url: https://harrix.dev/ru/games/guess-who/
+lang: ru
 ---
 
 # Угадать, кого загадали

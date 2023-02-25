@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/put-100-nails-in-2-bags/put-100-nails-in-2-bags.md
 url: https://harrix.dev/ru/games/put-100-nails-in-2-bags/
+lang: ru
 ---
 
 # 100 гвоздей в два мешочка

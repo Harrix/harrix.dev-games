@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/fake-coin-among-13-coins/fake-coin-among-13-coins.md
 url: https://harrix.dev/ru/games/fake-coin-among-13-coins/
+lang: ru
 ---
 
 # За три взвешивания определить фальшивую монету среди 13 монет

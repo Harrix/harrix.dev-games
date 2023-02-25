@@ -13,6 +13,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/what-is-georgian-surname/what-is-georgian-surname.md
 url: https://harrix.dev/ru/games/what-is-georgian-surname/
+lang: ru
 ---
 
 # Какая фамилия грузина

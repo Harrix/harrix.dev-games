@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/what-is-bus-number/what-is-bus-number.md
 url: https://harrix.dev/ru/games/what-is-bus-number/
+lang: ru
 ---
 
 # Какой номер автобуса и как звали водителя

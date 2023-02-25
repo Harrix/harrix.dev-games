@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/attention-test/attention-test.md
 url: https://harrix.dev/ru/games/attention-test/
+lang: ru
 ---
 
 # Тест на внимательность

@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/two-types-of-tablets/two-types-of-tablets.md
 url: https://harrix.dev/ru/games/two-types-of-tablets/
+lang: ru
 ---
 
 # Таблетки двух типов для выздоровления

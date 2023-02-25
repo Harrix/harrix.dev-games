@@ -12,6 +12,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/smart-football/smart-football.md
 url: https://harrix.dev/ru/games/smart-football/
+lang: ru
 ---
 
 # Интеллектуальный футбол на бумаге
