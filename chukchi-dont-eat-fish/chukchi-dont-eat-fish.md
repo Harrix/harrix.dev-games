@@ -18,6 +18,8 @@ lang: ru
 
 # Чукча не ест рыбу
 
+![Featured image](featured-image.svg)
+
 Ведущий рисует на бумаге следующее:
 
 ![Рисунок задачи](img/problem.svg)

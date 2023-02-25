@@ -17,6 +17,8 @@ lang: ru
 
 # Животные и числа
 
+![Featured image](featured-image.svg)
+
 Ведущий рисует на бумаге следующее:
 
 ```text

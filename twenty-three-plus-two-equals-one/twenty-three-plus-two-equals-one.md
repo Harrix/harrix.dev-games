@@ -17,6 +17,8 @@ lang: ru
 
 # 23 + 2 = 1
 
+![Featured image](featured-image.svg)
+
 Ведущий рисует на бумаге следующее:
 
 ```text

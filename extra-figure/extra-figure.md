@@ -17,6 +17,8 @@ lang: ru
 
 # Лишняя фигура
 
+![Featured image](featured-image.svg)
+
 Ведущий рисует следующие фигуры на бумаге:
 
 ![Пять фигур](img/problem.svg)

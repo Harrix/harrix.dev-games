@@ -17,6 +17,8 @@ lang: ru
 
 # ОДТЧПШСВ
 
+![Featured image](featured-image.svg)
+
 Ведущий рисует на бумаге следующие буквы:
 
 ```text

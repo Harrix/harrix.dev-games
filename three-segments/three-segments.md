@@ -18,6 +18,8 @@ lang: ru
 
 # Три отрезка
 
+![Featured image](featured-image.svg)
+
 Классическая задача. Даны 4 точки:
 
 ![Рисунок задачи](img/problem.svg)

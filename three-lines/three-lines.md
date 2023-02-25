@@ -18,6 +18,8 @@ lang: ru
 
 # Три линии
 
+![Featured image](featured-image.svg)
+
 Ведущий рисует на бумаге следующий рисунок:
 
 ![Рисунок задачи](img/problem.svg)
