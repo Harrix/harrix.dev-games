@@ -2,16 +2,16 @@
 date: 2013-02-21
 categories: [Игра]
 tags:
-- {Применимость: несколько раз}
-- {Что требуется: ничего}
-- {На сколько людей рассчитано: от 3}
-- {Подвижность: нет}
+  - { Применимость: несколько раз }
+  - { Что требуется: ничего }
+  - { На сколько людей рассчитано: от 3 }
+  - { Подвижность: нет }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/i-i/i-i.md
-url: https://harrix.dev/ru/games/i-i/
+permalink: https://harrix.dev/ru/games/i-i/
 lang: ru
 ---
 

@@ -2,16 +2,16 @@
 date: 2013-02-21
 categories: [Головоломка]
 tags:
-- {Применимость: одноразовая}
-- {Что требуется: ничего}
-- {На сколько людей рассчитано: от 3}
-- {Подвижность: нет}
+  - { Применимость: одноразовая }
+  - { Что требуется: ничего }
+  - { На сколько людей рассчитано: от 3 }
+  - { Подвижность: нет }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/i-take-with-me-on-trip/i-take-with-me-on-trip.md
-url: https://harrix.dev/ru/games/i-take-with-me-on-trip/
+permalink: https://harrix.dev/ru/games/i-take-with-me-on-trip/
 lang: ru
 ---
 

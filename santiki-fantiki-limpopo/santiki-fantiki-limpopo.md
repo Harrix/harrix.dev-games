@@ -2,16 +2,16 @@
 date: 2013-07-22
 categories: [Игра]
 tags:
-- {Применимость: многоразовая}
-- {Что требуется: ничего}
-- {На сколько людей рассчитано: от 5}
-- {Подвижность: да}
+  - { Применимость: многоразовая }
+  - { Что требуется: ничего }
+  - { На сколько людей рассчитано: от 5 }
+  - { Подвижность: да }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/santiki-fantiki-limpopo/santiki-fantiki-limpopo.md
-url: https://harrix.dev/ru/games/santiki-fantiki-limpopo/
+permalink: https://harrix.dev/ru/games/santiki-fantiki-limpopo/
 lang: ru
 ---
 

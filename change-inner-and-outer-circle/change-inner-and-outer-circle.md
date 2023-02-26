@@ -2,16 +2,16 @@
 date: 2013-07-21
 categories: [Игра]
 tags:
-- {Применимость: многоразовая}
-- {Что требуется: ничего}
-- {На сколько людей рассчитано: от 8}
-- {Подвижность: да}
+  - { Применимость: многоразовая }
+  - { Что требуется: ничего }
+  - { На сколько людей рассчитано: от 8 }
+  - { Подвижность: да }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/change-inner-and-outer-circle/change-inner-and-outer-circle.md
-url: https://harrix.dev/ru/games/change-inner-and-outer-circle/
+permalink: https://harrix.dev/ru/games/change-inner-and-outer-circle/
 lang: ru
 ---
 

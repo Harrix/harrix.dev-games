@@ -2,17 +2,17 @@
 date: 2013-03-03
 categories: [Головоломка]
 tags:
-- {Применимость: одноразовая}
-- {Что требуется: ничего}
-- {На сколько людей рассчитано: от 2}
-- {Подвижность: нет}
-- {Место проведения: где угодно}
+  - { Применимость: одноразовая }
+  - { Что требуется: ничего }
+  - { На сколько людей рассчитано: от 2 }
+  - { Подвижность: нет }
+  - { Место проведения: где угодно }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/two-trains-towards-each-other/two-trains-towards-each-other.md
-url: https://harrix.dev/ru/games/two-trains-towards-each-other/
+permalink: https://harrix.dev/ru/games/two-trains-towards-each-other/
 lang: ru
 ---
 

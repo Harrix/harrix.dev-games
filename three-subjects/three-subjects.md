@@ -2,16 +2,16 @@
 date: 2012-10-30
 categories: [Головоломка]
 tags:
-- {Применимость: одноразовая}
-- {Что требуется: ручки или палочки}
-- {На сколько людей рассчитано: от 4}
-- {Подвижность: нет}
+  - { Применимость: одноразовая }
+  - { Что требуется: ручки или палочки }
+  - { На сколько людей рассчитано: от 4 }
+  - { Подвижность: нет }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/three-subjects/three-subjects.md
-url: https://harrix.dev/ru/games/three-subjects/
+permalink: https://harrix.dev/ru/games/three-subjects/
 lang: ru
 ---
 

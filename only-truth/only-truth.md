@@ -2,16 +2,16 @@
 date: 2012-10-31
 categories: [Головоломка]
 tags:
-- {Применимость: одноразовая}
-- {Что требуется: ничего}
-- {На сколько людей рассчитано: от 4}
-- {Подвижность: нет}
+  - { Применимость: одноразовая }
+  - { Что требуется: ничего }
+  - { На сколько людей рассчитано: от 4 }
+  - { Подвижность: нет }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/only-truth/only-truth.md
-url: https://harrix.dev/ru/games/only-truth/
+permalink: https://harrix.dev/ru/games/only-truth/
 lang: ru
 ---
 

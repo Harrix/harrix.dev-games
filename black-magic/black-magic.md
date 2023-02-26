@@ -2,16 +2,16 @@
 date: 2012-10-18
 categories: [Головоломка]
 tags:
-- {Применимость: одноразовая}
-- {Что требуется: ничего}
-- {На сколько людей рассчитано: от 3}
-- {Подвижность: частично}
+  - { Применимость: одноразовая }
+  - { Что требуется: ничего }
+  - { На сколько людей рассчитано: от 3 }
+  - { Подвижность: частично }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/black-magic/black-magic.md
-url: https://harrix.dev/ru/games/black-magic/
+permalink: https://harrix.dev/ru/games/black-magic/
 lang: ru
 ---
 

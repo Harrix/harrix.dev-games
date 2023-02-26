@@ -2,21 +2,21 @@
 date: 2013-07-22
 categories: [Головоломка]
 tags:
-- {Применимость: одноразовая}
-- {Что требуется: ручка и бумага}
-- {На сколько людей рассчитано: от 1}
-- {Подвижность: нет}
+  - { Применимость: одноразовая }
+  - { Что требуется: ручка и бумага }
+  - { На сколько людей рассчитано: от 1 }
+  - { Подвижность: нет }
 latex: true
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/two-times-two-equals-five/two-times-two-equals-five.md
-url: https://harrix.dev/ru/games/two-times-two-equals-five/
+permalink: https://harrix.dev/ru/games/two-times-two-equals-five/
 lang: ru
 ---
 
-# 2 * 2 = 5
+# 2 \* 2 = 5
 
 ![Featured image](featured-image.svg)
 

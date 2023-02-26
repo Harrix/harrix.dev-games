@@ -2,16 +2,16 @@
 date: 2013-07-22
 categories: [Головоломка]
 tags:
-- {Применимость: одноразовая}
-- {Что требуется: ручка и бумага}
-- {На сколько людей рассчитано: от 1}
-- {Подвижность: нет}
+  - { Применимость: одноразовая }
+  - { Что требуется: ручка и бумага }
+  - { На сколько людей рассчитано: от 1 }
+  - { Подвижность: нет }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/three-wise-men-and-five-caps/three-wise-men-and-five-caps.md
-url: https://harrix.dev/ru/games/three-wise-men-and-five-caps/
+permalink: https://harrix.dev/ru/games/three-wise-men-and-five-caps/
 lang: ru
 ---
 

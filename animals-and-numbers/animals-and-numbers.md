@@ -2,16 +2,16 @@
 date: 2013-03-03
 categories: [Головоломка]
 tags:
-- {Применимость: одноразовая}
-- {Что требуется: ручка и бумага}
-- {На сколько людей рассчитано: от 1}
-- {Подвижность: нет}
+  - { Применимость: одноразовая }
+  - { Что требуется: ручка и бумага }
+  - { На сколько людей рассчитано: от 1 }
+  - { Подвижность: нет }
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-games/blob/main/animals-and-numbers/animals-and-numbers.md
-url: https://harrix.dev/ru/games/animals-and-numbers/
+permalink: https://harrix.dev/ru/games/animals-and-numbers/
 lang: ru
 ---
 
