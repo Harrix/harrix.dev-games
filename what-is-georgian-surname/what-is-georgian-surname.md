@@ -11,7 +11,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-url-src: https://github.com/Harrix/harrix.dev-games/blob/main/what-is-georgian-surname/what-is-georgian-surname.md
+permalink-source: https://github.com/Harrix/harrix.dev-games/blob/main/what-is-georgian-surname/what-is-georgian-surname.md
 permalink: https://harrix.dev/ru/games/what-is-georgian-surname/
 lang: ru
 ---

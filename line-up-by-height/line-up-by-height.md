@@ -10,7 +10,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-url-src: https://github.com/Harrix/harrix.dev-games/blob/main/line-up-by-height/line-up-by-height.md
+permalink-source: https://github.com/Harrix/harrix.dev-games/blob/main/line-up-by-height/line-up-by-height.md
 permalink: https://harrix.dev/ru/games/line-up-by-height/
 lang: ru
 ---

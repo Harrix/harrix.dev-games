@@ -10,7 +10,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-url-src: https://github.com/Harrix/harrix.dev-games/blob/main/dashes/dashes.md
+permalink-source: https://github.com/Harrix/harrix.dev-games/blob/main/dashes/dashes.md
 permalink: https://harrix.dev/ru/games/dashes/
 lang: ru
 ---
